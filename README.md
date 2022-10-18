@@ -33,6 +33,6 @@ provide us with a good general picture of what is trending on the healthline ind
 When analysed the retweeted tweets and the favored tweets one would expect that the figures from those columns would go along. Though what is also established in the social media universe is that trends don't always show the real image of the case. Something that may be forwarded/shared multiple times doesn't mean it is also favored as much at the same time. The famous saying :"There is no such thing as bad publicity" unfortunately doesn't have a place in the healthcare industry.
 Further plotting our results we can see that using the hashtag "healthcare" will guarantee viewing of our tweeter campain as it is encountered with very big difference from second hashtag in place. In order to make our plot more readable and view that results with count over 10 were not closely related to our study, we also produced a graph basis the top 15 used hashtag from our twitter feeds analysis.
 
-Assignment activity 5: Make recommendations
+Assignment activity 6: Make recommendations
 
 We analyse the appointments_regional dataset filtered to include dates from Aug 2021 until Jun 2022. Summing up count of appointments per month, we created a new column indicating a daily average. The highest numbers show 1,013,502.3 average count per day on the busiest month . As indicated, the NHS can accommodate a maximum of 1,200,000 appointments per day which clearly answers our first question that from that comparison alone we have no obvious argument to propose increase of staff levels. 
