@@ -3,7 +3,6 @@
 During the presentation i refer to the y axis mentioned as 1e7 as millions where it should be clearly mentioned and marked as 10 millions. (ie obviously the monthly sum of apppointments is around 20 millions and not 2 millions).
 Apologies for this wrong description.
 
-Google drive link for the presentation as follows:
 
 
 # LSE_DA_NHS_analysis
